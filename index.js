@@ -30,7 +30,7 @@ var num2 = num();
     });
     im1[1].addEventListener("click",function(){
         if(num1>num2){
-            document.getElementById("j").innerHTML = "🐦  🎀  𝓅𝓁𝒶𝓎𝑒𝓇 2 𝓌𝒾𝓃𝓈  🎀  🐦";
+            document.getElementById("j").innerHTML = "🐦  🎀  𝓅𝓁𝒶𝓎𝑒𝓇 1 𝓌𝒾𝓃𝓈  🎀  🐦";
         }
         else if(num1<num2){
             document.getElementById("j").innerHTML = "🐦  🎀  𝓅𝓁𝒶𝓎𝑒𝓇 2 𝓌𝒾𝓃𝓈  🎀  🐦";
